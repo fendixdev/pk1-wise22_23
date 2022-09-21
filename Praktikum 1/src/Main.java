@@ -10,5 +10,7 @@ public class Main {
         a1.druckeDaten();
         b1.druckeDaten();
         System.out.printf("%s ist %d Jahre alt\n", b1.getTitel(), b1.alter());
+
+        System.out.println("Done!");
     }
 }
