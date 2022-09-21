@@ -1,1 +1,2 @@
-# pk1-wise22_23
+# Programmierkurs 1
+Course @ FH Dortmund, University of Applied Sciences and Arts
